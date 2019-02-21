@@ -1,0 +1,11 @@
+{
+  "ext_name": {
+    "message": "Always expands the Google search tool"
+  },
+  "ext_desc": {
+    "message": "Always expands the search tool and moves it back to the left side"
+  },
+  "html_lang": {
+    "message": "en"
+  }
+}

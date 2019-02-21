@@ -1,0 +1,11 @@
+{
+  "ext_name": {
+    "message": "Google検索ツールを常に開く"
+  },
+  "ext_desc": {
+    "message":"検索ツールを常に展開し、サイドバーから利用できるようにします。"
+  },
+  "html_lang": {
+    "message": "ja"
+  }
+}
